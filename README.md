@@ -1,6 +1,6 @@
-Selection algorithm for SCL decoding in VHDL and C++.
+Implementation and comparison of the selection algorithm for SCL decoding in VHDL and C++.
 
-The algorithm is described in this paper: https://ieeexplore.ieee.org/document/7867834
+The implemented algorithm is described in this paper: https://ieeexplore.ieee.org/document/7867834
 
 Generic variables:
 
